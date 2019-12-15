@@ -1,2 +1,6 @@
 Value1: some-val_latest
 Value2: another-val_latest
+appsettings:
+   - service1: service1_value
+     service2: service2_value
+ 
